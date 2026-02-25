@@ -1,5 +1,5 @@
 ---
-title: "still life"
+title: "Still Life"
 date: 2026-02-25
 draft: false
 featured_image: "dummy.png"
