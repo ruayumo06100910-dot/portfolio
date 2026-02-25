@@ -1,3 +1,3 @@
 ---
-title: "My Art Portfolio"
+title: "Portfolio"
 ---
