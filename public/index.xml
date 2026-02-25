@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Art Portfolio on My New Hugo Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in My Art Portfolio on My New Hugo Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Feb 2026 11:21:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zampano</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 25 Feb 2026 11:21:35 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>portrait</title>
+      <link>http://localhost:1313/portrait/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portrait/</guid>
+        <media:content url="http://localhost:1313/portrait/asset_e2wg7t1ha_1771780654329_hu_fef4a0d588fdafe3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/portrait/asset_e2wg7t1ha_1771780654329_hu_fef4a0d588fdafe3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
