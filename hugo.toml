@@ -1,6 +1,9 @@
 baseURL = 'https://zampano.dpdns.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Project'
+title = 'Zampano'
 theme = "gallery"
+
+[params]
+  defaultTheme = "dark"
 
 
